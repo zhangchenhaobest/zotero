@@ -1,3 +1,29 @@
+# zotero
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+免费易用的文献收集、整理、批注、引用与分享工具。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 Zotero
 ======
 [![CI](https://github.com/zotero/zotero/actions/workflows/ci.yml/badge.svg)](https://github.com/zotero/zotero/actions/workflows/ci.yml)
